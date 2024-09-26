@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Osama</h1>
 <h3 align="center">A passionate AI & Machine Learning Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://1834867140.rsc.cdn77.org/wp-content/uploads/2023/09/troidoai-1.gif-1.gif">
+<img align="right" alt="Coding" width="500" src="https://1834867140.rsc.cdn77.org/wp-content/uploads/2023/09/troidoai-1.gif-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar099&label=Profile%20views&color=0e75b6&style=flat" alt="omar099" /> </p>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-osama-470967232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-osama-470967232" height="30" width="40" /></a>
-<a href="https://fb.com/omar osama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar osama" height="30" width="40" /></a>
+<a href="https://fb.com/omer.tiger.blue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar osama" height="30" width="40" /></a>
 <a href="https://discord.gg/omar5275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omar5275" height="30" width="40" /></a>
 </p>
 
