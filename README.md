@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omar Osama Mahmoud</h1>
+<h1 align="center">Hi 👋, I'm Omar Osama</h1>
 <h3 align="center">A passionate AI & Machine Learning Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s">
+<img align="right" alt="Coding" width="400" src="https://1834867140.rsc.cdn77.org/wp-content/uploads/2023/09/troidoai-1.gif-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar099&label=Profile%20views&color=0e75b6&style=flat" alt="omar099" /> </p>
 
