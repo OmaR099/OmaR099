@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar099&label=Profile%20views&color=0e75b6&style=flat" alt="omar099" /> </p>
 
-- 🔭 I’m currently working on **Teacher Assistant at Ahram Canadian University**
+- 🔭 I’m currently working as **Teacher Assistant at Ahram Canadian University**
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
