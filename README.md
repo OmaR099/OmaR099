@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **omer.osama07@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- 🐢 Fun fact: **I asked my pet turtle for life advice—he told me to take it slow and enjoy the lettuce.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
